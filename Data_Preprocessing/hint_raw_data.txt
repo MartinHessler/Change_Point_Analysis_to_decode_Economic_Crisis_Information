@@ -1,0 +1,4 @@
+Preprocessed data as well as more information about the raw data and the considered companies from the S&P500 can be found in a separate zenodo
+repository:
+
+https://zenodo.org/record/8167592
